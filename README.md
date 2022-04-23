@@ -3,6 +3,8 @@
 Linking to one of my repos:
 <a href="https://chucklorence.github.io/PCDE-Activity-9.1/">PCDE-Activity-9.1 Repo</a>
 
+Change made via VS Code.
+
 You can use the [editor on GitHub](https://github.com/chucklorence/chucklorence.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
