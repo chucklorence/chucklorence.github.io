@@ -1,6 +1,7 @@
 ## Welcome to Chuck Lorence's GitHub Pages
 
-Test to see if the changes are published.
+Linking to one of my repos:
+<a href="https://chucklorence.github.io/PCDE-Activity-9.1/">PCDE-Activity-9.1 Repo</a>
 
 You can use the [editor on GitHub](https://github.com/chucklorence/chucklorence.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
