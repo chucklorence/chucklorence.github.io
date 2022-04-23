@@ -1,6 +1,6 @@
 ## Welcome to Chuck Lorence's GitHub Pages
 
-<b><span style="color:red">This links to the repo for Activity 9.2: GitHub Portfolio:</span></b>
+<b><span style="color:red">This links to the repo for Activity 9.2: GitHub Portfolio:</span></b><br/>
 <a href="https://chucklorence.github.io/PCDE-Activity-9.1/">PCDE-Activity-9.1 Repo</a>
 
 Change made via VS Code.
